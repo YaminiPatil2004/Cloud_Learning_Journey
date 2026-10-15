@@ -77,4 +77,5 @@ A package goes through install, unpacked, configure. If an install fails, the lo
 3. How do I get out of less? Press q.
 4. Best command to read a long file page by page and search it? less
 5. Which file records installed packages on Ubuntu? /var/log/dpkg.log
+
 Quiz score: 100%.
